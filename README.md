@@ -1,1 +1,1 @@
-## GatsbyJS Learnings
+## Gatsby.js  Learnings
